@@ -130,7 +130,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Lucky Tap</title>
-      <h1 style={headingStyles}>Test Gatsby</h1>
+      <h1 style={headingStyles}>Test Gatsby deploy</h1>
     </main>
   );
 };

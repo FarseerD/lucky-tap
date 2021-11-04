@@ -4,4 +4,5 @@ module.exports = {
     title: "Lucky Tap",
   },
   plugins: ["gatsby-plugin-styled-components"],
+  pathPrefix: "/lucky-tap",
 };

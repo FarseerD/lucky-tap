@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklucky_tap=self.webpackChunklucky_tap||[]).push([[885],{7548:function(u,e,n){n.r(e),n.d(e,{default:function(){return c}});var t=n(7294);function c(){return t.createElement("h1",null,"Play")}}}]);
+//# sourceMappingURL=component---src-pages-play-js-ccadc5be2b32510a60f6.js.map

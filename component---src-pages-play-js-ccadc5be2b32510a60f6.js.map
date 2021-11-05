@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-play-js-ccadc5be2b32510a60f6.js","mappings":"sKAEe,SAASA,IACtB,OAAO","sources":["webpack://lucky-tap/./src/pages/play.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Play() {\n  return <h1>Play</h1>\n}\n"],"names":["Play"],"sourceRoot":""}

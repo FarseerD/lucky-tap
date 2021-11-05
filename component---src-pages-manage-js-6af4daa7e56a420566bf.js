@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklucky_tap=self.webpackChunklucky_tap||[]).push([[981],{3335:function(e,n,u){u.r(n),u.d(n,{default:function(){return a}});var t=u(7294);function a(){return t.createElement("h1",null,"Manage")}}}]);
+//# sourceMappingURL=component---src-pages-manage-js-6af4daa7e56a420566bf.js.map

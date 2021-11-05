@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-manage-js-6af4daa7e56a420566bf.js","mappings":"sKAEe,SAASA,IACtB,OAAO","sources":["webpack://lucky-tap/./src/pages/manage.js"],"sourcesContent":["import * as React from \"react\"\n\nexport default function Manage() {\n  return <h1>Manage</h1>\n}"],"names":["Manage"],"sourceRoot":""}
